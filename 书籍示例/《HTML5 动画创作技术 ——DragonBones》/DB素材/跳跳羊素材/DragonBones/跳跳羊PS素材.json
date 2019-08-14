@@ -1,1 +1,202 @@
-{"name":"跳跳羊PS素材","version":"4.5","armature":[{"name":"armatureName","aabb":{"width":800,"height":600},"bone":[{"name":"root"}],"slot":[{"name":"rightHindLeg","parent":"root"},{"name":"rightForeLeg","parent":"root"},{"name":"leftHindLeg","parent":"root"},{"name":"leftForeLeg","parent":"root"},{"name":"body","parent":"root"},{"name":"leftEar","parent":"root"},{"name":"rightEar","parent":"root"},{"name":"head","parent":"root"},{"name":"leftEye","parent":"root"},{"name":"rightEye","parent":"root"},{"name":"hair","parent":"root"}],"skin":[{"slot":[{"name":"rightHindLeg","display":[{"name":"rightHindLeg","transform":{"x":-5.5,"y":-270.5}}]},{"name":"rightForeLeg","display":[{"name":"rightForeLeg","transform":{"x":-58.5,"y":-269.5}}]},{"name":"leftHindLeg","display":[{"name":"leftHindLeg","transform":{"x":11,"y":-268.5}}]},{"name":"leftForeLeg","display":[{"name":"leftForeLeg","transform":{"x":-42.5,"y":-267.5}}]},{"name":"body","display":[{"name":"body","transform":{"x":-21.5,"y":-337}}]},{"name":"leftEar","display":[{"name":"leftEar","transform":{"x":-59.5,"y":-306.5}}]},{"name":"rightEar","display":[{"name":"rightEar","transform":{"x":-110.5,"y":-306.5}}]},{"name":"head","display":[{"name":"head","transform":{"x":-85.5,"y":-305.5}}]},{"name":"leftEye","display":[{"name":"leftEye","transform":{"x":-71,"y":-311}}]},{"name":"rightEye","display":[{"name":"rightEye","transform":{"x":-99,"y":-311}}]},{"name":"hair","display":[{"name":"hair","transform":{"x":-90,"y":-333}}]}]}]}]}
+{
+    "name": "跳跳羊PS素材",
+    "version": "4.5",
+    "armature": [
+        {
+            "name": "armatureName",
+            "aabb": {
+                "width": 800,
+                "height": 600
+            },
+            "bone": [
+                {
+                    "name": "root"
+                }
+            ],
+            "slot": [
+                {
+                    "name": "rightHindLeg",
+                    "parent": "root"
+                },
+                {
+                    "name": "rightForeLeg",
+                    "parent": "root"
+                },
+                {
+                    "name": "leftHindLeg",
+                    "parent": "root"
+                },
+                {
+                    "name": "leftForeLeg",
+                    "parent": "root"
+                },
+                {
+                    "name": "body",
+                    "parent": "root"
+                },
+                {
+                    "name": "leftEar",
+                    "parent": "root"
+                },
+                {
+                    "name": "rightEar",
+                    "parent": "root"
+                },
+                {
+                    "name": "head",
+                    "parent": "root"
+                },
+                {
+                    "name": "leftEye",
+                    "parent": "root"
+                },
+                {
+                    "name": "rightEye",
+                    "parent": "root"
+                },
+                {
+                    "name": "hair",
+                    "parent": "root"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "rightHindLeg",
+                            "display": [
+                                {
+                                    "name": "rightHindLeg",
+                                    "transform": {
+                                        "x": -5.5,
+                                        "y": -270.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "rightForeLeg",
+                            "display": [
+                                {
+                                    "name": "rightForeLeg",
+                                    "transform": {
+                                        "x": -58.5,
+                                        "y": -269.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "leftHindLeg",
+                            "display": [
+                                {
+                                    "name": "leftHindLeg",
+                                    "transform": {
+                                        "x": 11,
+                                        "y": -268.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "leftForeLeg",
+                            "display": [
+                                {
+                                    "name": "leftForeLeg",
+                                    "transform": {
+                                        "x": -42.5,
+                                        "y": -267.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "body",
+                            "display": [
+                                {
+                                    "name": "body",
+                                    "transform": {
+                                        "x": -21.5,
+                                        "y": -337
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "leftEar",
+                            "display": [
+                                {
+                                    "name": "leftEar",
+                                    "transform": {
+                                        "x": -59.5,
+                                        "y": -306.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "rightEar",
+                            "display": [
+                                {
+                                    "name": "rightEar",
+                                    "transform": {
+                                        "x": -110.5,
+                                        "y": -306.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "head",
+                            "display": [
+                                {
+                                    "name": "head",
+                                    "transform": {
+                                        "x": -85.5,
+                                        "y": -305.5
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "leftEye",
+                            "display": [
+                                {
+                                    "name": "leftEye",
+                                    "transform": {
+                                        "x": -71,
+                                        "y": -311
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "rightEye",
+                            "display": [
+                                {
+                                    "name": "rightEye",
+                                    "transform": {
+                                        "x": -99,
+                                        "y": -311
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "hair",
+                            "display": [
+                                {
+                                    "name": "hair",
+                                    "transform": {
+                                        "x": -90,
+                                        "y": -333
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
